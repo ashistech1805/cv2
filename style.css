@@ -1,0 +1,35 @@
+.box{
+     border: 0;
+     margin: 0px;
+     border-radius: 750px;
+     padding : 24px 20px;
+     width : 180px;
+     border-width: 150px;
+}
+body
+{
+    margin: 0;
+    background-color: #191919;
+}
+
+h2{
+    color: crimson;
+}
+h3{
+    color: grey;
+}
+.hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width :5%;
+}
+p{
+    color: cornsilk;
+}
+.tc
+{
+    color :burlywood;
+}
